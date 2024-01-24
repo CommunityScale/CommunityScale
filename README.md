@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CommunityScale
+- 👀 I’m interested in housing needs assessments
+- 🌱 I’m currently building a replicable data-driven approach
+- 📫 Find us at https://communityscale.io/ and in Boston, Massachusetts
